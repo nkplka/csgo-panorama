@@ -1,17 +1,4 @@
---[[
-                           _   _     __    ___    _____                             __  
-                          (_) | |   /_ |  / _ \  | ____|                           / /
-   ___   ___   _ __ ___    _  | |_   | | | (_) | | |__         _ __ ___   ___     / / 
-  / __| / __| | '_ ` _ \  | | | __|  | |  \__, | |___ \       | '_ ` _ \ / _ \   / /  
- | (__  \__ \ | | | | | | | | | |_   | |    / /   ___) |  _   | | | | | |  __/  / /   
-  \___| |___/ |_| |_| |_| |_|  \__|  |_|   /_/   |____/  (_)  |_| |_| |_|\___| /_/    
-   
-   
-    Script Name: Chris's Public Script (CP)
-    Script Author: csmit195
-    Script Version: 1.0
-    Script Description: A soon to be public lua for all of man kind.
-]]
+
 
 local ffi = require 'ffi'
 local csgo_weapons = require 'gamesense/csgo_weapons'
